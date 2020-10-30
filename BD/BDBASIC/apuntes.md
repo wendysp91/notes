@@ -1,5 +1,5 @@
 # SQL y MySql
-
+Curso de Platzi
 
 #### ¿Qué es una base de datos?
 Una Base de datos es un lugar donde se almacenan una gran cantidad de datos que posteriormente a través de un proceso se convierten en información. 
